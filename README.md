@@ -10,3 +10,11 @@ His have cheap ARM Cortex-M3 32-bit microcontroller.
 ## Use ST-Link v2
     
 [How install](https://freeelectron.ro/installing-st-link-v2-to-flash-stm32-targets-on-linux/)
+
+### Internal led blink
+
+Port C13
+
+### External led blink
+
+Port A2 -> LED -> GND
